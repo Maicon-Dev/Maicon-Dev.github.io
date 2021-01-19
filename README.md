@@ -6,7 +6,5 @@
 
 ### Considerações importantes
 
-As seguintes ferramentas foram usadas na construção do projeto:
-
 - Foi um curso realizado pela [Rockeatseat](https://rocketseat.com.br)
 - Foi minha primeira experiência com desenvolvimento web
